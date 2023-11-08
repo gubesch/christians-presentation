@@ -1,5 +1,5 @@
 ---
-theme: default
+theme: bitnate
 layout: intro
 ---
 # test
