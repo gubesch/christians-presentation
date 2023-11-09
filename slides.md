@@ -19,11 +19,9 @@ image: ./process.png
 ---
 # The Process
 
-This is what we want to achieve 🎯
-
-- AI-Driven Micro-Credentials:
+- **AI-Driven Micro-Credentials:**
     - Comprehensive packages derived from university courses. 📚
-- Centralized Educator Platform:
+- **Centralized Educator Platform:**
     - Unifies content creation and management. 🔄
-- Relevance and Recognition:
+- **Relevance and Recognition:**
     - Aligned with EQF levels for diverse recognition. 🏆
