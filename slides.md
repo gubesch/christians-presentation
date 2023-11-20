@@ -95,7 +95,6 @@ hideInToc: true
 
 ---
 
-<v-click>
 
 ### Verschlüsselung
 
@@ -103,7 +102,6 @@ hideInToc: true
 - 🌐 **Cloud-Sicherheit:** Verwendung von AES zur sicheren Speicherung von Daten in der Cloud.
 - 🚁 **Drohnenkommunikation:** AES für sichere Steuerung und Datenübertragung bei Drohnen.
 
-</v-click>
 
 <v-click>
 
