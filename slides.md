@@ -336,23 +336,6 @@ heading: "Was sind typische Anwendungen?"
 - Absichern von Softwareentwicklung?
 - Security at all Layers?
 
-
----
-layout: content-picture
----
-# Case Study 1
-
----
-layout: content-picture
----
-# Case Study 2
-
----
-layout: content-picture
----
-# Case Study 3
-
-
 ---
 layout: statement
 ---
@@ -374,7 +357,7 @@ layout: default
 9. **Zero Trust Architecture:** Schlüsselkomponenten in Infrastruktur, Identitäten, Devices, Applications, Networks und Data. 🏰💻📡💾
 10. **Schlüsselaustausch:** Sicherer Austausch von Verschlüsselungsschlüsseln mit Protokollen wie Diffie-Hellman. 🔑
 
-Erfahre mehr über Zero Trust und die Verschmelzung mit Kryptographie für eine sicherere digitale Welt! 🌐🔒
+<a href="https://cloudsecurityalliance.org/education/cczt/">Erfahre mehr über Zero Trust und die Verschmelzung mit Kryptographie für eine sicherere digitale Welt! 🌐🔒</a>
 
 ---
 layout: end
