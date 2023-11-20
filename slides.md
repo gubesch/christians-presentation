@@ -256,8 +256,31 @@ Big Question?
 ---
 layout: default
 ---
-# Überblick vom Einsatz der Kryptographie
-Eventuell mit Tabelle
+## Überblick vom Einsatz der Kryptographie
+
+| **Komponente** | **Kryptographie** | **Use-Case** |
+| --- | --- | --- |
+| **Infrastructure** 🧩 | 🔐 Datenverkehrsverschlüsselung | 🌐 Sicherer Datenverkehr in die Cloud |
+| **Infrastructure** 🔐 | 🔐 Ganzheitliche Datenverschlüsselung | 🏰 Umfassende Infrastruktursicherheit |
+| **Identities** 🔄 | 🔐 Kryptografische Identitätsprüfung | 🚨 Kontinuierliche Authentifizierung |
+| **Identities** 🔒 | 🔐 Sichere Zugriffsrechte | 💻 Minimaler Zugriff auf Identitäten |
+| **Devices** 🔒 | 🔐 Kryptografische Sicherheit | 📱 Sichere Gerätezugriffsrechte |
+| **Devices** 💻👤 | 🔐 Authentifizierung und Autorisierung | 🔒 Zero Trust für Geräte und Benutzer |
+
+---
+layout: default
+---
+## Überblick vom Einsatz der Kryptographie
+
+| **Komponente** | **Kryptographie** | **Use-Case** |
+| --- | --- | --- |
+| **Applications** 🔒 | 🔐 Zugriffsabsicherung | 💾 Zugriffskontrolle mit SAML & co. |
+| **Applications** 💻 | 🔐 Kryptografische Identitätsprüfung | 🔒 Zero Trust für Anwendungen |
+| **Networks** 🧩 | 🔐 Encryption in Transit | 🌐 Sicherer Netzwerkdatenverkehr |
+| **Networks** 🔐 | 🔐 Inspection | 🏰 Sichere Netzwerkkommunikation |
+| **Data** 🔐 | 🔐 Datenverschlüsselung | 🔄 Durchgängige Datenverschlüsselung |
+| **Data** 💻👤 | 🔐 Kryptografische Sicherheit | 🔒 Zero Trust für sichere Daten |
+
 
 ---
 layout: center
@@ -271,7 +294,25 @@ layout: default
 ---
 
 # Identitäten als zentrales Element
-Wie können wir das machen?
+
+In der Welt des Zero Trust wird die Denkweise revolutioniert, indem Identitäten zum zentralen Element werden. Diese Identitäten repräsentieren nicht nur Benutzer, sondern auch Netzwerke, Geräte, Anwendungen und die gesamte Infrastruktur.
+
+- **Zentrale Verwaltung:** Durch die Betrachtung von allem als Identität ermöglichen wir eine zentrale Verwaltung und Regulierung aller Ressourcen.
+  
+- **Effektive Regulierung:** Identitäten bieten eine effektive Möglichkeit, den Zugriff zu regulieren und Sicherheitsrichtlinien durchzusetzen.
+
+---
+layout: default
+---
+
+# Ganzheitliche Sicherheit mit Identitäten
+
+- **Ganzheitliche Sicherheit:** Die ganzheitliche Betrachtung von Identitäten ermöglicht eine umfassende Sicherheitsstrategie, die Netzwerke, Geräte und Anwendungen gleichermaßen abdeckt.
+
+- **Visuelle Darstellung:** Stellen Sie sich vor, wie Identitäten als Knotenpunkte in einem Netzwerk interagieren, um eine sicherere Umgebung zu schaffen.
+
+*Fügen Sie eine Visualisierung oder Grafik hinzu, die die Vernetzung von Identitäten in einem Sicherheitskontext veranschaulicht.*
+
 
 ---
 layout: default
@@ -285,16 +326,20 @@ layout: default
 ---
 layout: section
 ---
-Fallstudie: Zero Trust Umsetzung
+# Zero Trust Umsetzung
 
-🏢 Wie sichern wir Unternehmensnetzwerke ab?
-📊 Erfahrungen und Verbesserungen
+🏢 Wie sichern wir Unternehmensinfrastruktur ab?
 
 ---
-layout: default
+layout: facts
+heading: "Beispielfälle für Zero Trust"
 ---
 
-challenge mit 3-4 anwendungsfälle
+- Work from Anywhere?
+- Cloud Infrastruktur?
+- Absichern von Softwareentwicklung?
+- Security at all Layers?
+
 ---
 layout: end
 ---
