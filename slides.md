@@ -3,6 +3,7 @@ title: 'Zero Trust '
 theme: bitnate
 layout: intro
 colorSchema: 'light'
+hideInToc: true
 ---
 
 # Was ist eigentlich Zero Trust?
@@ -13,6 +14,7 @@ Campus 02 - Fachhochschule der Wirtschaft
 ---
 layout: about-me
 presenterImage: 'https://media.licdn.com/dms/image/D4D03AQFjJWq1RnGnYA/profile-displayphoto-shrink_800_800/0/1699289513103?e=1706140800&v=beta&t=ynMeTnvtsfd-e9pWhS8re6_FbiPvOyla4_4rRLknwzQ'
+hideInToc: true
 ---
 
 # Christian Gubesch
@@ -40,6 +42,8 @@ Was haben wir alles kennen gelernt?
 
 ---
 layout: two-cols
+hideInToc: true
+
 ---
 ### Verschlüsselung
 
@@ -50,6 +54,7 @@ layout: two-cols
   - 3DES
   - AES
 
+<v-click>
 ### Hahsing
 
 - Einwegfunktionen
@@ -58,17 +63,22 @@ layout: two-cols
   - SHA
   - BCRYPT (Passwort)
   - Argon2 (Passwort)
+</v-click>
 
 ::right::
+<v-click>
 ### Asymmetrische Krypto
 
 - Dieffie Hellman (DH)
 - Rivest Shamir Adelman (RSA)
 - Elliptic Curve Cryptography (ECC)
 - "Key Exchange Problem"
+</v-click>
 
 ---
 layout: center
+hideInToc: true
+
 ---
 
 Big Question?
@@ -77,12 +87,21 @@ Big Question?
 
 ---
 layout: default
+hideInToc: true
+
 ---
+
+<v-click>
+
 ### Verschlüsselung
 
 - 🌐 **VPN-Verbindungen:** Implementierung von DES/3DES/AES für sichere Kommunikation.
 - 🌐 **Cloud-Sicherheit:** Verwendung von AES zur sicheren Speicherung von Daten in der Cloud.
 - 🚁 **Drohnenkommunikation:** AES für sichere Steuerung und Datenübertragung bei Drohnen.
+
+</v-click>
+
+<v-click>
 
 ### Hashing
 
@@ -90,12 +109,18 @@ layout: default
 - 📁 **Integritätsprüfung:** Verwendung von SHA zum Überprüfen der Dateiintegrität.
 - 📱 **Digitale Signaturen:** Anwendung von Hashfunktionen in RSA für digitale Signaturen.
 
+</v-click>
+
+
+<v-click>
+
 ### Asymmetrische Kryptographie
 
 - 🤝 **Sicherer Schlüsselaustausch:** DH in sicheren Kommunikationskanälen.
 - 🌐 **SSL/TLS-Verschlüsselung:** Verwendung von RSA für sichere HTTPS-Verbindungen im Web.
 - 🚀 **Blockchain:** ECC zur Sicherung von Transaktionen in Blockchain-Netzwerken.
 
+</v-click>
 
 ---
 layout: section
@@ -106,6 +131,8 @@ Eine Einführung
 ---
 layout: content-picture
 image: 'https://images.unsplash.com/photo-1559116284-9c57b7a01f7a?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+hideInToc: true
+
 ---
 
 # 🚷 Zero Trust?
@@ -117,6 +144,8 @@ image: 'https://images.unsplash.com/photo-1559116284-9c57b7a01f7a?q=80&w=3570&au
 ---
 layout: content-picture
 image: 'https://images.unsplash.com/photo-1572435555646-7ad9a149ad91?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+hideInToc: true
+
 ---
 # 🔐 Zero Trust 🔁 Kryptographie
 
@@ -140,6 +169,8 @@ layout: section
 ---
 layout: content-picture
 image: 'https://miro.medium.com/v2/resize:fit:1400/0*kHFo8yegI1q02pA3'
+hideInToc: true
+
 ---
 ## Trust based Security
 
@@ -151,6 +182,8 @@ image: 'https://miro.medium.com/v2/resize:fit:1400/0*kHFo8yegI1q02pA3'
 ---
 layout: content-picture
 image: 'https://miro.medium.com/v2/resize:fit:1400/0*kHFo8yegI1q02pA3'
+hideInToc: true
+
 ---
 ## Trust based Security
 
@@ -163,6 +196,8 @@ image: 'https://miro.medium.com/v2/resize:fit:1400/0*kHFo8yegI1q02pA3'
 ---
 layout: content-picture
 image: 'https://cf-assets.www.cloudflare.com/slt3lc6tev37/5Q5gi9cihPVrNEVvlnA2TV/45fba984653ae2d54e30652b466da784/castle-and-moat_security_model-resized.png'
+hideInToc: true
+
 ---
 ## Perimeter based Security
 
@@ -175,6 +210,8 @@ image: 'https://cf-assets.www.cloudflare.com/slt3lc6tev37/5Q5gi9cihPVrNEVvlnA2TV
 
 ---
 layout: center
+hideInToc: true
+
 ---
 
 Big Question?
@@ -191,6 +228,8 @@ Was zeichnet Zero Trust aus?
 ---
 layout: content-picture
 image: 'https://www.nextlabs.com/wp-content/uploads/Principles-of-ZTA-1-1.jpg'
+hideInToc: true
+
 ---
 
 ## Grundprinzipien
@@ -205,6 +244,8 @@ image: 'https://www.nextlabs.com/wp-content/uploads/Principles-of-ZTA-1-1.jpg'
 ---
 layout: content-picture
 image: 'https://www.nextlabs.com/wp-content/uploads/Principles-of-ZTA-1-1.jpg'
+hideInToc: true
+
 ---
 
 ## Grundprinzipien
@@ -217,6 +258,8 @@ image: 'https://www.nextlabs.com/wp-content/uploads/Principles-of-ZTA-1-1.jpg'
 ---
 layout: content-picture
 image: 'https://discover.strongdm.com/hubfs/618b007756edd86ecb738143_zero-trust.svg'
+hideInToc: true
+
 ---
 ## Zero Trust Architecture
 
@@ -232,6 +275,8 @@ image: 'https://discover.strongdm.com/hubfs/618b007756edd86ecb738143_zero-trust.
 ---
 layout: content-picture
 image: 'https://discover.strongdm.com/hubfs/618b007756edd86ecb738143_zero-trust.svg'
+hideInToc: true
+
 ---
 ## Zero Trust Architecture
 
@@ -246,6 +291,8 @@ image: 'https://discover.strongdm.com/hubfs/618b007756edd86ecb738143_zero-trust.
   - Zero Trust for Devices and Users 💻👤
 ---
 layout: center
+hideInToc: true
+
 ---
 Big Question?
 
@@ -253,6 +300,8 @@ Big Question?
 
 ---
 layout: default
+hideInToc: true
+
 ---
 ## Überblick vom Einsatz der Kryptographie
 
@@ -282,6 +331,8 @@ layout: default
 
 ---
 layout: center
+hideInToc: true
+
 ---
 Big Question?
 
@@ -290,11 +341,15 @@ Big Question?
 ---
 layout: quote
 author: Zero Trust Denkweise
+hideInToc: true
+
 ---
 In der Welt des Zero Trust wird die Denkweise revolutioniert, indem Identitäten zum zentralen Element werden. Diese Identitäten repräsentieren nicht nur Benutzer, sondern auch Netzwerke, Geräte, Anwendungen und die gesamte Infrastruktur.
 ---
 layout: content-picture
 image: 'https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWIwt2_tbmnl_en-us?scl=1'
+hideInToc: true
+
 ---
 
 ## Identitäten als zentrales Element
@@ -313,6 +368,8 @@ layout: section
 ---
 layout: content-picture
 image: 'https://venturebeat.com/wp-content/uploads/2022/12/Zscaler-zero-trust-wheel.jpg?fit=1210%2C633&strip=all'
+hideInToc: true
+
 ---
 
 # Anwendungsgebiete
@@ -329,6 +386,8 @@ Zero Trust Prinzipien sind mittlerweile weit verbreitet und überall im Einsatz!
 ---
 layout: facts
 heading: "Was sind typische Anwendungen?"
+hideInToc: true
+
 ---
 
 - Work from Anywhere?
@@ -338,11 +397,15 @@ heading: "Was sind typische Anwendungen?"
 
 ---
 layout: statement
+hideInToc: true
+
 ---
 # Time to Recap!
 
 ---
 layout: default
+hideInToc: true
+
 ---
 ## Recap: Zero Trust Essentials 🚀
 
@@ -361,5 +424,7 @@ layout: default
 
 ---
 layout: end
+hideInToc: true
+
 ---
 Vielen Dank für eure Aufmerksamkeit!
