@@ -141,7 +141,7 @@ layout: section
 layout: content-picture
 image: 'https://miro.medium.com/v2/resize:fit:1400/0*kHFo8yegI1q02pA3'
 ---
-## Trust based Security (1)
+## Trust based Security
 
 - **Vertrauen, aber überprüfen:**
   - Statische Sicherheitszonen 🏰
@@ -152,7 +152,7 @@ image: 'https://miro.medium.com/v2/resize:fit:1400/0*kHFo8yegI1q02pA3'
 layout: content-picture
 image: 'https://miro.medium.com/v2/resize:fit:1400/0*kHFo8yegI1q02pA3'
 ---
-## Trust based Security (2)
+## Trust based Security
 
 - **Feste Identitäten:**
   - Statische Identitäten 🤖
@@ -193,7 +193,7 @@ layout: content-picture
 image: 'https://www.nextlabs.com/wp-content/uploads/Principles-of-ZTA-1-1.jpg'
 ---
 
-### Grundprinzipien
+## Grundprinzipien
 
 - **Never Trust, Always Verify** 🔍
   - Kontinuierliche Überprüfung
@@ -207,7 +207,7 @@ layout: content-picture
 image: 'https://www.nextlabs.com/wp-content/uploads/Principles-of-ZTA-1-1.jpg'
 ---
 
-### Grundprinzipien
+## Grundprinzipien
 
 - **Assume Breach** 🚨
   - Annahme von Sicherheitsvorfällen
@@ -218,7 +218,7 @@ image: 'https://www.nextlabs.com/wp-content/uploads/Principles-of-ZTA-1-1.jpg'
 layout: content-picture
 image: 'https://discover.strongdm.com/hubfs/618b007756edd86ecb738143_zero-trust.svg'
 ---
-### Zero Trust Architecture
+## Zero Trust Architecture
 
 - **Infrastructure**
   - Micro-Segmentation 🧩
@@ -229,13 +229,11 @@ image: 'https://discover.strongdm.com/hubfs/618b007756edd86ecb738143_zero-trust.
 - **Devices**
   - Least Privilege Access 🔒
   - Zero Trust for Devices and Users 💻👤
-  - Zero Trust for Devices and Users 💻👤
-
 ---
 layout: content-picture
 image: 'https://discover.strongdm.com/hubfs/618b007756edd86ecb738143_zero-trust.svg'
 ---
-### Zero Trust Architecture
+## Zero Trust Architecture
 
 - **Applications**
   - Least Privilege Access 🔒
@@ -290,38 +288,20 @@ Big Question?
 # Was muss sich an unserer Denkweise ändern?
 
 ---
-layout: default
+layout: quote
+author: Zero Trust Denkweise
 ---
-
-# Identitäten als zentrales Element
-
 In der Welt des Zero Trust wird die Denkweise revolutioniert, indem Identitäten zum zentralen Element werden. Diese Identitäten repräsentieren nicht nur Benutzer, sondern auch Netzwerke, Geräte, Anwendungen und die gesamte Infrastruktur.
-
-- **Zentrale Verwaltung:** Durch die Betrachtung von allem als Identität ermöglichen wir eine zentrale Verwaltung und Regulierung aller Ressourcen.
-  
-- **Effektive Regulierung:** Identitäten bieten eine effektive Möglichkeit, den Zugriff zu regulieren und Sicherheitsrichtlinien durchzusetzen.
-
 ---
-layout: default
+layout: content-picture
+image: 'https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWIwt2_tbmnl_en-us?scl=1'
 ---
 
-# Ganzheitliche Sicherheit mit Identitäten
+## Identitäten als zentrales Element
 
-- **Ganzheitliche Sicherheit:** Die ganzheitliche Betrachtung von Identitäten ermöglicht eine umfassende Sicherheitsstrategie, die Netzwerke, Geräte und Anwendungen gleichermaßen abdeckt.
-
-- **Visuelle Darstellung:** Stellen Sie sich vor, wie Identitäten als Knotenpunkte in einem Netzwerk interagieren, um eine sicherere Umgebung zu schaffen.
-
-*Fügen Sie eine Visualisierung oder Grafik hinzu, die die Vernetzung von Identitäten in einem Sicherheitskontext veranschaulicht.*
-
-
----
-layout: default
----
-
-# Identity Management
-+ zentrales identity management.
-+ zentrale berechtigungsverwaltung.
-+ bla bla bla
+- **Zentrale Verwaltung:** Alles als Identität betrachten für zentrale Ressourcenregulierung. 🌐
+- **Effektive Regulierung:** Identitäten für Zugriffsregulierung und Sicherheitsrichtlinien. 🔐
+- **Ganzheitliche Sicherheit:** Identitäten für umfassende Sicherheitsstrategie. 🛡️
 
 ---
 layout: section
@@ -331,14 +311,70 @@ layout: section
 🏢 Wie sichern wir Unternehmensinfrastruktur ab?
 
 ---
+layout: content-picture
+image: 'https://venturebeat.com/wp-content/uploads/2022/12/Zscaler-zero-trust-wheel.jpg?fit=1210%2C633&strip=all'
+---
+
+# Anwendungsgebiete
+Zero Trust Prinzipien sind mittlerweile weit verbreitet und überall im Einsatz!
+
+- Remote Access
+- Cloud Computing
+- Critical Infrastrcuture
+- Operational Technology
+- Corporates
+- Software Security
+- Internet
+
+---
 layout: facts
-heading: "Beispielfälle für Zero Trust"
+heading: "Was sind typische Anwendungen?"
 ---
 
 - Work from Anywhere?
 - Cloud Infrastruktur?
 - Absichern von Softwareentwicklung?
 - Security at all Layers?
+
+
+---
+layout: content-picture
+---
+# Case Study 1
+
+---
+layout: content-picture
+---
+# Case Study 2
+
+---
+layout: content-picture
+---
+# Case Study 3
+
+
+---
+layout: statement
+---
+# Time to Recap!
+
+---
+layout: default
+---
+## Recap: Zero Trust Essentials 🚀
+
+1. **Never Trust, Always Verify:** Kein Standardvertrauen, kontinuierliche Überprüfung.
+2. **Identitäten im Fokus:** Alles als Identität betrachten für zentrale Ressourcenregulierung. 🌐
+3. **Effektive Regulierung:** Identitäten für Zugriffsregulierung und Sicherheitsrichtlinien. 🔐
+4. **Ganzheitliche Sicherheit:** Identitäten für umfassende Sicherheitsstrategie. 🛡️
+5. **Paradigmenwechsel:** Von "Vertrauen, aber überprüfen" zu "Never Trust, Always Verify". 🔄
+6. **Sicherheit in der Tiefe:** Micro-Segmentation und durchgängige Verschlüsselung. 🧩🔐
+7. **Identitätsüberprüfung:** Kontinuierliche Authentifizierung und Least Privilege Access. 🔄🔒
+8. **Veränderung der Denkweise:** Alles als Identität sehen, nicht nur Benutzer. 💭
+9. **Zero Trust Architecture:** Schlüsselkomponenten in Infrastruktur, Identitäten, Devices, Applications, Networks und Data. 🏰💻📡💾
+10. **Schlüsselaustausch:** Sicherer Austausch von Verschlüsselungsschlüsseln mit Protokollen wie Diffie-Hellman. 🔑
+
+Erfahre mehr über Zero Trust und die Verschmelzung mit Kryptographie für eine sicherere digitale Welt! 🌐🔒
 
 ---
 layout: end
