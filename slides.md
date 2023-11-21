@@ -20,10 +20,10 @@ hideInToc: true
 # Christian Gubesch
 
 - 📍 Graz, Austria 🇦🇹
-- 🌐 Check out my [LinkedIn](https://www.linkedin.com/christian-gubesch)
-- 📧 E-Mail me at [christian.gubesch@gmail.com](mailto:christian.gubesch@gmail.com)
 - 💼 Working at @BearingPoint
 - 🎓 Education in IT, Business, and Business Development
+- 🌐 Check out my [LinkedIn](https://www.linkedin.com/christian-gubesch)
+- 📧 E-Mail me at [christian.gubesch@gmail.com](mailto:christian.gubesch@gmail.com)
 
 ---
 layout: default
@@ -100,7 +100,7 @@ hideInToc: true
 
 - 🌐 **VPN-Verbindungen:** Implementierung von DES/3DES/AES für sichere Kommunikation.
 - 🌐 **Cloud-Sicherheit:** Verwendung von AES zur sicheren Speicherung von Daten in der Cloud.
-- 🚁 **Drohnenkommunikation:** AES für sichere Steuerung und Datenübertragung bei Drohnen.
+- 📱 **Mobile App Security:** Verwendung von End-to-End-Verschlüsselung in mobilen Apps für sicheren Datenaustausch.
 
 
 <v-click>
